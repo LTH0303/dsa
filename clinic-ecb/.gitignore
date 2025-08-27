@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.class
+/out/
+.DS_Store
+*.log
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
