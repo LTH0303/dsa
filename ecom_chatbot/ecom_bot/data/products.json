@@ -1,0 +1,27 @@
+[
+  {
+    "id": "P1001",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 19.99,
+    "in_stock": true,
+    "description": "Soft 100% cotton tee available in multiple colors."
+  },
+  {
+    "id": "P1002",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 59.0,
+    "in_stock": true,
+    "description": "Bluetooth earbuds with noise isolation and 24h battery."
+  },
+  {
+    "id": "P1003",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 24.5,
+    "in_stock": false,
+    "description": "Insulated 750ml bottle keeps drinks cold for 24h."
+  }
+]
+
