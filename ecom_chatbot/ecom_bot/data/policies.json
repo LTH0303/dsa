@@ -1,0 +1,27 @@
+{
+  "returns": {
+    "summary": "You can return most items within 30 days of delivery in original condition.",
+    "steps": [
+      "Go to Your Orders and select the item.",
+      "Choose a return reason and preferred method.",
+      "Print the prepaid label and drop the package off."
+    ]
+  },
+  "refunds": {
+    "summary": "Refunds are issued to your original payment method.",
+    "timeline": "5–10 business days after we receive your return.",
+    "method": "Original payment method or store credit if applicable."
+  },
+  "shipping": {
+    "summary": "We ship domestically and internationally with reliable carriers.",
+    "domestic": "Standard 3–5 business days; Express 1–2 business days.",
+    "international": "Varies by destination, typically 7–14 business days.",
+    "free_threshold": "Free shipping on domestic orders over $50."
+  },
+  "support": {
+    "email": "support@example.com",
+    "phone": "+1 (555) 010-0000",
+    "hours": "Mon–Fri 9am–5pm"
+  }
+}
+
